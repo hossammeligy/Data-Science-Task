@@ -1,0 +1,101 @@
+restaurant_id,manager_id,restaurant_name,address,state,phone_number,cuisine,price_range,created_on,order_id,product_id,quantity,price,order_date,delivery_date,status
+1,9,Gigashots,35 Chive Trail,Mansura,718-827-0263,Middle Eastern,Inexpensive,01/02/2023,1,36,53,528.7516,2022-03-10,2022-06-10,Cancelled
+1,9,Gigashots,35 Chive Trail,Mansura,718-827-0263,Middle Eastern,Inexpensive,01/02/2023,40,7,35,833.84,2022-12-27,2022-12-28,Cancelled
+1,9,Gigashots,35 Chive Trail,Mansura,718-827-0263,Middle Eastern,Inexpensive,01/02/2023,99,36,32,511.5097,2022-11-27,2022-11-30,Paid
+2,25,Voolia,776 Bay Road,Alexandria,199-125-1799,Mediterranean,Inexpensive,26/07/2022,60,49,15,551.9696,2022-10-09,2022-11-09,Invoiced
+3,28,Youbridge,816 Bunting Trail,Cairo,598-133-2788,Egyptian,Expensive,17/08/2022,61,8,41,1063.1488,2022-08-29,2022-01-09,Delivered
+4,34,Zoombeat,4106 Pepper Wood Hill,Alexandria,639-590-3300,Egyptian,Expensive,12/04/2023,74,18,36,327.3396,2022-07-06,2022-10-06,Cancelled
+5,3,Kamba,9 Alpine Drive,Cairo,144-890-1629,Mediterranean,Expensive,11/11/2022,2,43,19,658.3196,2023-02-16,2023-02-19,Cancelled
+5,3,Kamba,9 Alpine Drive,Cairo,144-890-1629,Mediterranean,Expensive,11/11/2022,20,27,8,692.9095,2022-08-28,2022-08-29,Invoiced
+5,3,Kamba,9 Alpine Drive,Cairo,144-890-1629,Mediterranean,Expensive,11/11/2022,57,44,78,2.2936,2023-03-02,2023-04-02,Cancelled
+5,3,Kamba,9 Alpine Drive,Cairo,144-890-1629,Mediterranean,Expensive,11/11/2022,59,42,15,472.9233,2023-04-20,2023-04-21,Cancelled
+5,3,Kamba,9 Alpine Drive,Cairo,144-890-1629,Mediterranean,Expensive,11/11/2022,80,21,46,69.7491,2022-09-19,2022-09-20,Invoiced
+5,3,Kamba,9 Alpine Drive,Cairo,144-890-1629,Mediterranean,Expensive,11/11/2022,85,43,82,749.3638,2022-12-17,2022-12-18,Cancelled
+5,3,Kamba,9 Alpine Drive,Cairo,144-890-1629,Mediterranean,Expensive,11/11/2022,90,45,21,1060.83,2022-06-27,2022-06-30,Invoiced
+6,39,Yamia,8104 Butternut Crossing,Alexandria,525-358-6703,Egyptian,Moderate,05/06/2022,14,27,48,572.4035,2022-11-11,2022-12-11,Invoiced
+6,39,Yamia,8104 Butternut Crossing,Alexandria,525-358-6703,Egyptian,Moderate,05/06/2022,83,14,21,807.4868,2023-04-29,2023-04-30,Cancelled
+6,39,Yamia,8104 Butternut Crossing,Alexandria,525-358-6703,Egyptian,Moderate,05/06/2022,89,47,72,210.08,2022-07-20,2022-07-23,Paid
+7,38,Livepath,13 Stang Plaza,Cairo,395-969-0584,Mediterranean,Inexpensive,23/04/2023,29,11,96,12.9084,2022-11-30,2022-01-12,Delivered
+7,38,Livepath,13 Stang Plaza,Cairo,395-969-0584,Mediterranean,Inexpensive,23/04/2023,46,6,11,733.5055,2023-12-04,2023-04-13,Cancelled
+7,38,Livepath,13 Stang Plaza,Cairo,395-969-0584,Mediterranean,Inexpensive,23/04/2023,48,1,43,685.1843,2022-04-10,2022-07-10,Invoiced
+7,38,Livepath,13 Stang Plaza,Cairo,395-969-0584,Mediterranean,Inexpensive,23/04/2023,71,27,18,584.4541,2022-11-18,2022-11-21,Paid
+7,38,Livepath,13 Stang Plaza,Cairo,395-969-0584,Mediterranean,Inexpensive,23/04/2023,78,43,32,784.3808,2023-05-02,2023-08-02,Delivered
+8,23,Digitube,29589 Fordem Avenue,Matrouh,306-440-0964,Egyptian,Inexpensive,17/07/2022,13,22,50,348.439,2022-11-13,2022-11-14,Delivered
+8,23,Digitube,29589 Fordem Avenue,Matrouh,306-440-0964,Egyptian,Inexpensive,17/07/2022,17,50,63,992.9736,2023-03-31,2023-01-04,Delivered
+8,23,Digitube,29589 Fordem Avenue,Matrouh,306-440-0964,Egyptian,Inexpensive,17/07/2022,63,3,47,785.1692,2023-02-13,2023-02-14,Invoiced
+9,49,Muxo,46740 Clove Avenue,Alexandria,242-204-2286,Mediterranean,Moderate,21/12/2022,31,21,85,63.99,2023-08-01,2023-09-01,Cancelled
+10,10,Youopia,7 Meadow Ridge Circle,Matrouh,616-831-2198,Middle Eastern,Inexpensive,03/10/2022,52,20,64,245.4116,2022-05-10,2022-08-10,Paid
+10,10,Youopia,7 Meadow Ridge Circle,Matrouh,616-831-2198,Middle Eastern,Inexpensive,03/10/2022,54,18,29,290.0114,2022-02-06,2022-05-06,Invoiced
+11,38,Browsecat,278 Ridge Oak Place,Matrouh,753-482-2349,Mediterranean,Expensive,15/03/2023,47,3,86,799.066,2022-11-28,2022-11-29,Delivered
+11,38,Browsecat,278 Ridge Oak Place,Matrouh,753-482-2349,Mediterranean,Expensive,15/03/2023,82,50,21,809.0896,2022-09-26,2022-09-27,Invoiced
+12,15,Mydeo,15 Onsgard Place,Cairo,116-784-7713,Egyptian,Moderate,15/09/2022,9,48,35,798.2394,2022-10-13,2022-10-14,Cancelled
+12,15,Mydeo,15 Onsgard Place,Cairo,116-784-7713,Egyptian,Moderate,15/09/2022,26,37,92,961.8652,2023-08-03,2023-09-03,Paid
+12,15,Mydeo,15 Onsgard Place,Cairo,116-784-7713,Egyptian,Moderate,15/09/2022,45,18,7,275.6544,2022-02-06,2022-05-06,Delivered
+12,15,Mydeo,15 Onsgard Place,Cairo,116-784-7713,Egyptian,Moderate,15/09/2022,56,20,34,237.899,2022-11-07,2022-07-14,Cancelled
+12,15,Mydeo,15 Onsgard Place,Cairo,116-784-7713,Egyptian,Moderate,15/09/2022,96,37,18,889.2716,2023-01-16,2023-01-17,Cancelled
+13,14,Browsecat,6 Heffernan Hill,Alexandria,800-144-3128,Egyptian,Moderate,08/09/2022,12,43,37,763.3706,2023-02-18,2023-02-19,Cancelled
+13,14,Browsecat,6 Heffernan Hill,Alexandria,800-144-3128,Egyptian,Moderate,08/09/2022,27,29,55,49.5987,2022-09-25,2022-09-26,Cancelled
+13,14,Browsecat,6 Heffernan Hill,Alexandria,800-144-3128,Egyptian,Moderate,08/09/2022,35,42,37,527.2823,2022-10-21,2022-10-22,Delivered
+14,23,Kwinu,7 Clemons Hill,Matrouh,117-426-0883,Mediterranean,Moderate,06/04/2023,5,3,66,743.4788,2022-05-06,2022-08-06,Delivered
+14,23,Kwinu,7 Clemons Hill,Matrouh,117-426-0883,Mediterranean,Moderate,06/04/2023,22,27,37,632.6565,2023-05-01,2023-08-01,Delivered
+15,27,Digitube,28958 Buhler Crossing,Mansura,396-694-0069,Egyptian,Expensive,21/04/2023,7,28,91,272.859,2023-03-01,2023-04-01,Delivered
+15,27,Digitube,28958 Buhler Crossing,Mansura,396-694-0069,Egyptian,Expensive,21/04/2023,58,7,85,850.5168,2023-04-17,2023-04-18,Invoiced
+15,27,Digitube,28958 Buhler Crossing,Mansura,396-694-0069,Egyptian,Expensive,21/04/2023,65,39,84,937.7613,2023-02-13,2023-02-14,Delivered
+16,28,Devbug,730 Barby Pass,Cairo,343-473-2383,Egyptian,Inexpensive,07/11/2022,3,4,63,1117.754,2022-07-12,2022-10-12,Paid
+16,28,Devbug,730 Barby Pass,Cairo,343-473-2383,Egyptian,Inexpensive,07/11/2022,33,17,58,787.094,2023-02-25,2023-02-26,Cancelled
+16,28,Devbug,730 Barby Pass,Cairo,343-473-2383,Egyptian,Inexpensive,07/11/2022,62,20,86,270.4536,2023-07-04,2023-08-04,Cancelled
+16,28,Devbug,730 Barby Pass,Cairo,343-473-2383,Egyptian,Inexpensive,07/11/2022,97,31,11,664.1184,2023-04-25,2023-04-26,Delivered
+17,40,Meezzy,899 Chinook Way,Cairo,238-866-2700,Middle Eastern,Inexpensive,28/12/2022,37,48,87,798.2394,2022-06-08,2022-09-08,Cancelled
+17,40,Meezzy,899 Chinook Way,Cairo,238-866-2700,Middle Eastern,Inexpensive,28/12/2022,38,47,92,226.8864,2022-09-09,2022-10-09,Delivered
+17,40,Meezzy,899 Chinook Way,Cairo,238-866-2700,Middle Eastern,Inexpensive,28/12/2022,50,44,60,2.3912,2022-08-27,2022-08-28,Paid
+18,24,Realmix,10245 Sage Trail,Alexandria,965-844-1808,Egyptian,Moderate,09/04/2023,18,37,39,798.5296,2023-02-23,2023-02-24,Cancelled
+18,24,Realmix,10245 Sage Trail,Alexandria,965-844-1808,Egyptian,Moderate,09/04/2023,36,26,34,519.4288,2022-02-06,2022-05-06,Invoiced
+18,24,Realmix,10245 Sage Trail,Alexandria,965-844-1808,Egyptian,Moderate,09/04/2023,42,15,78,668.9896,2022-08-11,2022-11-11,Paid
+18,24,Realmix,10245 Sage Trail,Alexandria,965-844-1808,Egyptian,Moderate,09/04/2023,84,21,31,59.5107,2022-08-29,2022-01-09,Invoiced
+19,16,Fiveclub,92119 Norway Maple Parkway,Mansura,123-660-4921,Mediterranean,Expensive,17/12/2022,16,37,52,907.42,2023-01-28,2023-01-31,Cancelled
+19,16,Fiveclub,92119 Norway Maple Parkway,Mansura,123-660-4921,Mediterranean,Expensive,17/12/2022,28,9,19,613.3638,2023-02-21,2023-02-24,Delivered
+19,16,Fiveclub,92119 Norway Maple Parkway,Mansura,123-660-4921,Mediterranean,Expensive,17/12/2022,43,28,87,301.581,2022-12-30,2023-02-01,Cancelled
+19,16,Fiveclub,92119 Norway Maple Parkway,Mansura,123-660-4921,Mediterranean,Expensive,17/12/2022,49,36,91,609.2138,2022-08-14,2022-08-17,Cancelled
+19,16,Fiveclub,92119 Norway Maple Parkway,Mansura,123-660-4921,Mediterranean,Expensive,17/12/2022,76,44,17,2.7572,2022-03-11,2022-04-11,Paid
+19,16,Fiveclub,92119 Norway Maple Parkway,Mansura,123-660-4921,Mediterranean,Expensive,17/12/2022,86,11,96,13.186,2023-04-19,2023-04-20,Delivered
+19,16,Fiveclub,92119 Norway Maple Parkway,Mansura,123-660-4921,Mediterranean,Expensive,17/12/2022,93,41,84,979.5468,2022-09-16,2022-09-17,Paid
+19,16,Fiveclub,92119 Norway Maple Parkway,Mansura,123-660-4921,Mediterranean,Expensive,17/12/2022,94,2,46,171.9848,2022-07-20,2022-07-23,Paid
+20,45,Muxo,5722 Straubel Terrace,Mansura,318-933-7938,Mediterranean,Moderate,26/07/2022,32,21,92,59.5107,2022-02-09,2022-05-09,Cancelled
+20,45,Muxo,5722 Straubel Terrace,Mansura,318-933-7938,Mediterranean,Moderate,26/07/2022,72,33,10,192.0552,2023-01-22,2023-01-25,Invoiced
+20,45,Muxo,5722 Straubel Terrace,Mansura,318-933-7938,Mediterranean,Moderate,26/07/2022,81,12,12,41.8506,2023-07-03,2023-08-03,Delivered
+20,45,Muxo,5722 Straubel Terrace,Mansura,318-933-7938,Mediterranean,Moderate,26/07/2022,95,23,64,100.2021,2022-07-31,2022-03-08,Paid
+21,21,Jazzy,0559 Fallview Place,Matrouh,519-821-9587,Middle Eastern,Moderate,02/11/2022,10,15,71,689.68,2022-08-28,2022-08-31,Paid
+21,21,Jazzy,0559 Fallview Place,Matrouh,519-821-9587,Middle Eastern,Moderate,02/11/2022,11,9,86,475.2188,2022-08-13,2022-08-16,Invoiced
+21,21,Jazzy,0559 Fallview Place,Matrouh,519-821-9587,Middle Eastern,Moderate,02/11/2022,30,37,72,1034.4588,2022-07-29,2022-01-08,Delivered
+21,21,Jazzy,0559 Fallview Place,Matrouh,519-821-9587,Middle Eastern,Moderate,02/11/2022,39,21,97,65.2698,2022-08-14,2022-08-17,Delivered
+23,29,Feedmix,67 Drewry Place,Mansura,292-561-3449,Egyptian,Moderate,09/03/2023,44,29,97,54.7296,2023-01-25,2023-01-26,Paid
+23,29,Feedmix,67 Drewry Place,Mansura,292-561-3449,Egyptian,Moderate,09/03/2023,69,42,27,543.59,2022-12-20,2022-12-23,Cancelled
+23,29,Feedmix,67 Drewry Place,Mansura,292-561-3449,Egyptian,Moderate,09/03/2023,70,43,9,630.306,2022-06-15,2022-06-18,Cancelled
+23,29,Feedmix,67 Drewry Place,Mansura,292-561-3449,Egyptian,Moderate,09/03/2023,88,30,54,855.1452,2022-08-28,2022-08-29,Invoiced
+24,32,Blogtags,80135 Vera Point,Alexandria,816-157-4153,Egyptian,Expensive,21/03/2023,15,12,77,44.7227,2022-04-08,2022-07-08,Paid
+24,32,Blogtags,80135 Vera Point,Alexandria,816-157-4153,Egyptian,Expensive,21/03/2023,21,6,19,757.687,2023-04-24,2023-04-25,Invoiced
+24,32,Blogtags,80135 Vera Point,Alexandria,816-157-4153,Egyptian,Expensive,21/03/2023,25,17,70,778.8088,2023-03-20,2023-03-21,Invoiced
+24,32,Blogtags,80135 Vera Point,Alexandria,816-157-4153,Egyptian,Expensive,21/03/2023,64,7,47,792.148,2022-07-12,2022-08-12,Invoiced
+24,32,Blogtags,80135 Vera Point,Alexandria,816-157-4153,Egyptian,Expensive,21/03/2023,87,18,29,290.0114,2023-03-29,2023-03-30,Invoiced
+24,32,Blogtags,80135 Vera Point,Alexandria,816-157-4153,Egyptian,Expensive,21/03/2023,98,1,45,662.0882,2022-09-18,2022-09-21,Cancelled
+25,31,Skinder,3 Swallow Crossing,Alexandria,292-446-9943,Mediterranean,Moderate,15/08/2022,8,47,58,220.584,2023-01-27,2023-01-28,Delivered
+25,31,Skinder,3 Swallow Crossing,Alexandria,292-446-9943,Mediterranean,Moderate,15/08/2022,24,24,19,316.135,2023-01-16,2023-01-17,Invoiced
+25,31,Skinder,3 Swallow Crossing,Alexandria,292-446-9943,Mediterranean,Moderate,15/08/2022,34,18,58,327.3396,2022-06-27,2022-06-30,Cancelled
+25,31,Skinder,3 Swallow Crossing,Alexandria,292-446-9943,Mediterranean,Moderate,15/08/2022,77,38,85,783.1516,2022-06-23,2022-06-26,Cancelled
+25,31,Skinder,3 Swallow Crossing,Alexandria,292-446-9943,Mediterranean,Moderate,15/08/2022,100,47,91,237.3904,2022-02-08,2022-05-08,Delivered
+26,42,Oyoloo,957 Park Meadow Junction,Cairo,813-998-7975,Mediterranean,Expensive,30/09/2022,66,27,72,608.5553,2022-12-07,2022-07-15,Delivered
+26,42,Oyoloo,957 Park Meadow Junction,Cairo,813-998-7975,Mediterranean,Expensive,30/09/2022,67,7,23,900.5472,2023-02-17,2023-02-18,Invoiced
+26,42,Oyoloo,957 Park Meadow Junction,Cairo,813-998-7975,Mediterranean,Expensive,30/09/2022,75,14,39,830.3402,2023-08-03,2023-09-03,Paid
+26,42,Oyoloo,957 Park Meadow Junction,Cairo,813-998-7975,Mediterranean,Expensive,30/09/2022,92,13,28,237.0246,2022-07-21,2022-07-24,Paid
+27,50,Zoonder,99009 Forster Park,Alexandria,505-746-2524,Mediterranean,Moderate,09/09/2022,4,42,36,603.3849,2022-09-26,2022-09-29,Cancelled
+27,50,Zoonder,99009 Forster Park,Alexandria,505-746-2524,Mediterranean,Moderate,09/09/2022,53,33,15,254.5848,2022-09-14,2022-09-17,Cancelled
+28,16,Blognation,21045 Hooker Center,Mansura,220-802-7087,Middle Eastern,Expensive,23/11/2022,6,43,14,721.3502,2022-11-18,2022-11-21,Paid
+28,16,Blognation,21045 Hooker Center,Mansura,220-802-7087,Middle Eastern,Expensive,23/11/2022,19,1,42,731.3765,2022-07-27,2022-07-30,Invoiced
+28,16,Blognation,21045 Hooker Center,Mansura,220-802-7087,Middle Eastern,Expensive,23/11/2022,51,1,26,669.7869,2023-04-19,2023-04-20,Paid
+28,16,Blognation,21045 Hooker Center,Mansura,220-802-7087,Middle Eastern,Expensive,23/11/2022,68,48,42,781.9488,2022-08-30,2022-02-09,Paid
+28,16,Blognation,21045 Hooker Center,Mansura,220-802-7087,Middle Eastern,Expensive,23/11/2022,91,39,67,768.7953,2023-01-30,2023-02-02,Delivered
+29,15,Youfeed,44 Old Gate Hill,Alexandria,871-903-7585,Mediterranean,Moderate,14/09/2022,23,15,100,765.5448,2022-06-10,2022-07-10,Paid
+29,15,Youfeed,44 Old Gate Hill,Alexandria,871-903-7585,Mediterranean,Moderate,14/09/2022,55,44,5,2.4156,2022-10-27,2022-10-28,Paid
+29,15,Youfeed,44 Old Gate Hill,Alexandria,871-903-7585,Mediterranean,Moderate,14/09/2022,79,33,13,254.5848,2022-05-10,2022-08-10,Cancelled
+30,15,Leexo,9207 Autumn Leaf Crossing,Matrouh,260-278-1182,Mediterranean,Expensive,22/07/2022,41,5,9,294.6379,2022-12-23,2022-12-24,Paid
+30,15,Leexo,9207 Autumn Leaf Crossing,Matrouh,260-278-1182,Mediterranean,Expensive,22/07/2022,73,33,53,241.1856,2022-10-20,2022-10-21,Delivered

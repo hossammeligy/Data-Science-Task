@@ -1,0 +1,21 @@
+id,supplier_name,contact_name,phone,address,state,country,payment_method,payment_terms
+1,Chatterpoint,Lynde Cogger,794-858-0304,03 Northridge Plaza,Mansoura,Egypt,credit card,net 30
+2,Thoughtmix,Stephannie Hirtz,956-275-2509,9062 Ronald Regan Lane,Cairo,Egypt,bank transfer,net 30
+3,Ailane,Sibelle Medina,946-438-2472,17216 Orin Trail,Damanhour,Egypt,cash,net 30
+4,Roombo,Giuseppe Miguel,433-709-7172,93745 Anniversary Hill,Mansoura,Egypt,bank transfer,immediate
+5,Oyope,Bryana Matchitt,173-202-0580,16 Brentwood Alley,Mansoura,Egypt,cash,immediate
+6,Youopia,Agatha Monkeman,513-991-5943,727 Hauk Terrace,Mansoura,Egypt,cash,immediate
+7,Pixope,Denni Brookes,198-276-3141,70111 Sutteridge Park,Mansoura,Egypt,credit card,net 7
+8,Oyonder,Horatius MacPadene,335-736-7323,4642 Harper Crossing,Portsaid,Egypt,bank transfer,net 7
+9,Bubblemix,Jeannette Figgs,644-897-0358,98 Mockingbird Hill,Damanhour,Egypt,cash,immediate
+10,Twitterbeat,Brewer Kettridge,546-490-9424,81 Toban Street,Mansoura,Egypt,bank transfer,net 45
+11,Demivee,Veradis Fanning,342-740-4519,716 Pond Court,Portsaid,Egypt,credit card,net 7
+12,Digitube,Violante Setchfield,682-228-9706,98770 Farwell Court,Portsaid,Egypt,cash,net 30
+13,Jetpulse,Mei Cochran,200-713-7498,6618 Dahle Trail,Damanhour,Egypt,bank transfer,immediate
+14,Meemm,Griselda Hekkert,573-400-2839,15 Brentwood Road,Portsaid,Egypt,bank transfer,net 30
+15,Leenti,Nerti Illesley,902-270-2657,555 Mayfield Lane,Portsaid,Egypt,credit card,net 7
+16,Kimia,Gweneth Line,865-314-9336,5473 Messerschmidt Place,Damanhour,Egypt,bank transfer,net 30
+17,Edgepulse,Trix Blabie,887-405-3625,1 Sommers Place,Alexandria,Egypt,bank transfer,immediate
+18,Jayo,Wenonah Cluitt,552-525-9420,0 Dorton Point,Damanhour,Egypt,credit card,net 45
+19,Abatz,Rob Davidovitch,351-248-9124,41 Manley Park,Cairo,Egypt,cash,immediate
+20,Skilith,Ardyth Lowdeane,763-245-3873,84331 Washington Terrace,Damanhour,Egypt,bank transfer,net 45

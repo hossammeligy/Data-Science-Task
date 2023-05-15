@@ -1,0 +1,31 @@
+id,manager_id,restaurant_name,address,state,phone_number,cuisine,price_range,created_on
+1,9,Gigashots,35 Chive Trail,Mansura,718-827-0263,Middle Eastern,Inexpensive,01/02/2023
+2,25,Voolia,776 Bay Road,Alexandria,199-125-1799,Mediterranean,Inexpensive,26/07/2022
+3,28,Youbridge,816 Bunting Trail,Cairo,598-133-2788,Egyptian,Expensive,17/08/2022
+4,34,Zoombeat,4106 Pepper Wood Hill,Alexandria,639-590-3300,Egyptian,Expensive,12/04/2023
+5,3,Kamba,9 Alpine Drive,Cairo,144-890-1629,Mediterranean,Expensive,11/11/2022
+6,39,Yamia,8104 Butternut Crossing,Alexandria,525-358-6703,Egyptian,Moderate,05/06/2022
+7,38,Livepath,13 Stang Plaza,Cairo,395-969-0584,Mediterranean,Inexpensive,23/04/2023
+8,23,Digitube,29589 Fordem Avenue,Matrouh,306-440-0964,Egyptian,Inexpensive,17/07/2022
+9,49,Muxo,46740 Clove Avenue,Alexandria,242-204-2286,Mediterranean,Moderate,21/12/2022
+10,10,Youopia,7 Meadow Ridge Circle,Matrouh,616-831-2198,Middle Eastern,Inexpensive,03/10/2022
+11,38,Browsecat,278 Ridge Oak Place,Matrouh,753-482-2349,Mediterranean,Expensive,15/03/2023
+12,15,Mydeo,15 Onsgard Place,Cairo,116-784-7713,Egyptian,Moderate,15/09/2022
+13,14,Browsecat,6 Heffernan Hill,Alexandria,800-144-3128,Egyptian,Moderate,08/09/2022
+14,23,Kwinu,7 Clemons Hill,Matrouh,117-426-0883,Mediterranean,Moderate,06/04/2023
+15,27,Digitube,28958 Buhler Crossing,Mansura,396-694-0069,Egyptian,Expensive,21/04/2023
+16,28,Devbug,730 Barby Pass,Cairo,343-473-2383,Egyptian,Inexpensive,07/11/2022
+17,40,Meezzy,899 Chinook Way,Cairo,238-866-2700,Middle Eastern,Inexpensive,28/12/2022
+18,24,Realmix,10245 Sage Trail,Alexandria,965-844-1808,Egyptian,Moderate,09/04/2023
+19,16,Fiveclub,92119 Norway Maple Parkway,Mansura,123-660-4921,Mediterranean,Expensive,17/12/2022
+20,45,Muxo,5722 Straubel Terrace,Mansura,318-933-7938,Mediterranean,Moderate,26/07/2022
+21,21,Jazzy,0559 Fallview Place,Matrouh,519-821-9587,Middle Eastern,Moderate,02/11/2022
+22,21,Devpoint,44 Dexter Terrace,Cairo,500-978-9563,Middle Eastern,Moderate,02/06/2022
+23,29,Feedmix,67 Drewry Place,Mansura,292-561-3449,Egyptian,Moderate,09/03/2023
+24,32,Blogtags,80135 Vera Point,Alexandria,816-157-4153,Egyptian,Expensive,21/03/2023
+25,31,Skinder,3 Swallow Crossing,Alexandria,292-446-9943,Mediterranean,Moderate,15/08/2022
+26,42,Oyoloo,957 Park Meadow Junction,Cairo,813-998-7975,Mediterranean,Expensive,30/09/2022
+27,50,Zoonder,99009 Forster Park,Alexandria,505-746-2524,Mediterranean,Moderate,09/09/2022
+28,16,Blognation,21045 Hooker Center,Mansura,220-802-7087,Middle Eastern,Expensive,23/11/2022
+29,15,Youfeed,44 Old Gate Hill,Alexandria,871-903-7585,Mediterranean,Moderate,14/09/2022
+30,15,Leexo,9207 Autumn Leaf Crossing,Matrouh,260-278-1182,Mediterranean,Expensive,22/07/2022

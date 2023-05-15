@@ -1,0 +1,3 @@
+restaurant_id,supplier_id,order_year,order_month,next_month_orders
+6,2,2022,7,60.31
+1,5,2022,12,33.3

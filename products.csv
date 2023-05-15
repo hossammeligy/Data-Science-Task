@@ -1,0 +1,51 @@
+id,supplier_id,product_name,product_category,stock,product_unit,product_price,cost,delivery_lead_days
+1,9,Thyme - Dried,dairy,877,g,769.87,765.62,2
+2,8,Veal Inside - Provimi,seafood,647,pack,186.94,186.94,1
+3,11,Wine - Vineland Estate Semi - Dry,dairy,729,kg,694.84,44.48,1
+4,2,Squash - Acorn,seafood,349,L,971.96,356.89,2
+5,3,Milk - Chocolate 250 Ml,produce,941,kg,270.31,270.31,1
+6,12,Mushroom - Porcini Frozen,poultry,612,mL,806.05,806.05,1
+7,17,Guinea Fowl,seafood,947,g,833.84,833.84,2
+8,9,"Syrup - Golden, Lyles",meat,158,kg,949.24,596.53,1
+9,15,"Beans - Fava, Canned",produce,5,mL,552.58,552.58,1
+10,16,Russian Prince,meat,564,mL,931.18,595.86,2
+11,18,Plastic Wrap,seafood,323,pack,13.88,13.88,1
+12,17,Bread - Pumpernickel,seafood,148,kg,41.03,41.03,2
+13,10,"Wine - Magnotta, White",poultry,71,pack,275.61,275.61,1
+14,11,Cheese - Colby,produce,730,mL,761.78,699.91,2
+15,5,Pickles - Gherkins,dairy,257,pack,689.68,689.68,2
+16,11,Chicken - Leg / Back Attach,poultry,21,pack,412.88,142.13,2
+17,9,"Soup - Knorr, Veg / Beef",seafood,143,kg,828.52,828.52,1
+18,16,Chicken Breast Halal,meat,394,g,287.14,23.3,1
+19,16,Wine - Remy Pannier Rose,dairy,636,g,437.59,173.26,2
+20,19,Sherry - Dry,meat,403,L,250.42,18.46,1
+21,11,"Spoon - Soup, Plastic",seafood,712,L,63.99,63.99,1
+22,17,Chips Potato All Dressed - 43g,seafood,931,L,355.55,355.55,1
+23,12,Lamb Shoulder Boneless Nz,seafood,380,L,99.21,99.21,1
+24,2,"Crush - Orange, 355ml",meat,464,pack,274.9,274.9,1
+25,7,Tea - Lemon Green Tea,produce,683,mL,264.56,264.56,1
+26,19,"Veal - Inside Round / Top, Lean",poultry,578,mL,590.26,61.07,1
+27,5,Wine - Chateau Aqueria Tavel,poultry,553,L,602.53,587.75,2
+28,3,Sage Ground Wiberg,seafood,405,mL,287.22,287.22,2
+29,1,"Wine - Harrow Estates, Vidal",produce,96,kg,57.01,57.01,2
+30,16,"Zucchini - Mini, Green",produce,287,mL,939.72,939.72,1
+31,20,Anisette - Mcguiness,seafood,309,pack,582.56,582.56,1
+32,13,Coffee - Flavoured,seafood,630,g,201.37,201.37,1
+33,2,"Beef - Rouladin, Sliced",meat,719,mL,223.32,223.32,2
+34,18,Onions - Red,produce,973,kg,393.35,393.35,2
+35,8,Pastry - Banana Muffin - Mini,produce,449,g,800.5,347.29,2
+36,5,Dome Lid Clear P92008h,seafood,444,kg,574.73,404.18,1
+37,19,Longan,produce,526,kg,907.42,135.37,1
+38,11,Veal - Sweetbread,seafood,416,L,833.14,571.59,2
+39,18,Cornflakes,meat,111,kg,844.83,82.81,1
+40,6,Garlic Powder,meat,592,L,675.95,22.85,2
+41,2,Tuna - Bluefin,produce,856,g,960.34,177.8,2
+42,2,Compound - Pear,dairy,188,mL,543.59,57.67,2
+43,19,Wine - White Cab Sauv.on,meat,499,L,700.34,591.95,1
+44,16,"Pasta - Rotini, Dry",dairy,612,g,2.44,2.44,1
+45,6,"Pork - Back, Short Cut, Boneless",produce,481,mL,982.25,957.23,2
+46,3,Coconut Milk - Unsweetened,produce,835,kg,422.58,422.58,2
+47,7,Onions - Cooking,dairy,384,L,210.08,210.08,1
+48,18,Milkettes - 2%,seafood,109,mL,814.53,364.3,1
+49,13,"Ham - Smoked, Bone - In",produce,429,L,492.83,46.4,2
+50,15,Breadfruit,poultry,428,mL,919.42,395.05,2
